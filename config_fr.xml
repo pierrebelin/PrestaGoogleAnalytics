@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>itisgoogleanalytics</name>
+    <displayName><![CDATA[Itis Google Analytics	]]></displayName>
+    <version><![CDATA[3.1.3.4]]></version>
+    <description><![CDATA[Obtenez des informations claires sur les mesures importantes concernant vos clients, gr&acirc;ce &agrave; Google Analytics	]]></description>
+    <author><![CDATA[Itis Pierre Belin]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+	<confirmUninstall><![CDATA[Êtes-vous sûr de vouloir désinstaller Google Analytics ? Vous perdrez toutes les données relatives à ce module.	]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
